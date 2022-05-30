@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **xinlingqudongX/xinlingqudongX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="go" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="max-width: 100%;">
+### 开发语言
+<br/>
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="go" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="max-width: 100%;">
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinlingqudongX)](https://github.com/anuraghazra/github-readme-stats)
 
